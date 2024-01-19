@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Shear1n
+- 💬 Github: https://github.com/Shear1n
+- 🌱 Blog: https://shear1n.github.io/
